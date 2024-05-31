@@ -1,5 +1,18 @@
 # Sales Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning or Preparation](#data-cleaning-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results or Findings](#results-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+ 
 ## Project Overview
 
 This data analysis project aims to provide insights into the sales performance of a FCMG company over the past two years. By analyzing various aspects of the sales data, I seek to identify trends, make data- driven recommendations, and gain a deeper understanding of the company's performance. 
@@ -45,6 +58,19 @@ In this sales analysis project, I utilized various powerful features of MS Excel
   ### Recommendations
 
   - Invest in marketing and promtions during peak sales season to maximise revenue.
-  - Focus on expanding and promoting products 
+  - Focus on expanding and promoting products through marketing strategies 
+  - The firm should consider analyzing and impplementing the best salesperson strategies for others, identify the salespersons strength in terms of location, language and engage in customer trainings to equip salespersons on how to relate and achive sales.
+  - Focus on expanding operations or increasin marketing efforts in other regions to boost sales.
+  - Provide discounts or incentives to other customers to increase customer's purchasing power.
+
+    ### Limitations
+
+    I had to remove the non- printable characters in item price because they would have affected the accuracy of my conclusions from the analysis.
+
+    ### References
+
+    Data Analysis with Excel by Wayne L. Winston
+    Pivot Tables by Kedrus Academy
+
 
      
