@@ -69,8 +69,8 @@ In this sales analysis project, I utilized various powerful features of MS Excel
 
     ### References
 
-    Data Analysis with Excel by Wayne L. Winston
-    Pivot Tables by Kedrus Academy
+    - Data Analysis with Excel by Wayne L. Winston
+    - Pivot Tables by Kedrus Academy
 
 
      
