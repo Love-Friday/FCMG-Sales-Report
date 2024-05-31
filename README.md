@@ -20,11 +20,10 @@ In the cleaning stage, I performed the following tasks;
 
    The EDA processes involved me exploring the sales data to answer key questions, such as ;
 
-   - What is the overall sales trend?
+   - What is the overall sales and seasonal trends based on dates?
    -  which salesperson generated the highest sales revenue to the company?
    - What are the top- selling products by quantity and revenue?
    - How does sales revenue vary across different regions?
-   - Are there any seasonal trends in sales based on dates?
    - Is there a correlation between price and quantity sold?
    - Who are the top customers in terms of revenue generated?
   
@@ -36,16 +35,16 @@ In this sales analysis project, I utilized various powerful features of MS Excel
  ### Results/ Findings
 
  The analysis results are summarized as follows;
- 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
- 2. Product category A is the best- performing category in terms of sales and revenue.
- 3. 
-  
-     
+ 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the festive season.
+ 2. Vaughn Harlon generated the highest sales over others.
+ 3. Drinking water is the best- performing products in terms of quantity and revenue.
+ 4.  NE emerged as the top- performing region compared to other regions.
+ 5. KFC had a significant purchasing volume compared to other customers.
+ 6. There is a positive relationship between price and quantity sold. 
 
-     ### Recommendations
+  ### Recommendations
 
-     ### Limitations
-
-     ### References
+  - Invest in marketing and promtions during peak sales season to maximise revenue.
+  - Focus on expanding and promoting products 
 
      
