@@ -20,7 +20,8 @@ In the cleaning stage, I performed the following tasks;
 
    The EDA processes involved me exploring the sales data to answer key questions, such as ;
 
-   - which salesperson generated the highest sales revenue to the company?
+   - What is the overall sales trend?
+   -  which salesperson generated the highest sales revenue to the company?
    - What are the top- selling products by quantity and revenue?
    - How does sales revenue vary across different regions?
    - Are there any seasonal trends in sales based on dates?
@@ -28,11 +29,18 @@ In the cleaning stage, I performed the following tasks;
    - Who are the top customers in terms of revenue generated?
   
      ### Data Analysis
+Some intresting features I worked wih include;
 
-     ### Results/ Findings
+In this sales analysis project, I utilized various powerful features of MS Excel to delve into the sales data. I leveraged fucctions like clean,text(year, month), trim, proper case,  and Pivot tables to analyze sales variations across different kpi.  Additionally, I used conditional formatting to highlight key insights and trends in the dataset, while the charts and graphs created with Excel helped visualize the sales dynamics effectively. 
+
+ ### Results/ Findings
+
+ The analysis results are summarized as follows;
+ 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+ 2. Product category A is the best- performing category in terms of sales and revenue.
+ 3. 
   
-     The analysis results are summarized as follows;
-     - 
+     
 
      ### Recommendations
 
